@@ -1,3 +1,5 @@
 # ComplexityExplorer
 
-Sandboc for Mesa ComplexityExplorer script
+Mesa Complexity Explorer script
+
+Each Lesson has a Google Colab button 
